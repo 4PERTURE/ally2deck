@@ -25,5 +25,8 @@ However, you do need to manually get the driver from [here](https://rog.asus.com
 - Right click and press "Run with PowerShell"
 - Everything else should be handled by the script
 
-# Issues:
+# Known Issues:
+- Screen won't turn on after suspension
+- EasyAC games will not work due to testsigning being off
+
 Please report any issues you have, as I tested it on my system and it works fine, but that might not be the case for everyone.
