@@ -1,4 +1,7 @@
 # Ally2Deck
+
+# NOTICE: PROJECT ON HOLD UNTIL MICROSOFT MAKES AN OPERATING SYSTEM WORTH USIING
+
 This script will extract, patch and sign the ROG XBOX ALLY AMD Graphics Driver so that it works on the Steam Deck.
 It is highly experimental (and will always be, we are literally patching and installing a driver not designed for our device).
 Use it at your own risk.
